@@ -50,6 +50,13 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="MagcDEV's GitHub Stats" src="https://github-readme-stats.MagcDEV.vercel.app/api?username=MagcDEV&show_icons=true&hide_border=true" />
+
+</details>
+
 [website]: https://magcdev.github.io/MagcDEV_Portfolio/index.html
 [twitter]: https://twitter.com/MagcDEV
 [instagram]: https://instagram.com/magcdev
