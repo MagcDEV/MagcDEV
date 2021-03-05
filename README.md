@@ -40,10 +40,8 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How is covid-19 going in your country in less than 30 lines of code using Python, NumPy, Pandas and Matplotlib](https://magc.hashnode.dev/how-is-covid-19-going-in-your-country-in-less-than-30-lines-of-code-using-python-numpy-pandas-and-matplotlib)
-- [The NOT so Straightforward path to Programming](https://magc.hashnode.dev/the-not-so-straightforward-path-to-programming)
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 
 ➡️ [more blog posts...](https://magc.hashnode.dev)
 
