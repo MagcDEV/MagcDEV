@@ -50,7 +50,7 @@
 
 ---
 
- <img align="left" alt="MagcDEV's GitHub Stats" src="https://github-readme-stats.magcdev.vercel.app/api?username=MagcDEV&show_icons=true&hide_border=true" />
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magcdev)](https://github.com/magcdev/github-readme-stats)
 
 [website]: https://magcdev.github.io/MagcDEV_Portfolio/index.html
 [twitter]: https://twitter.com/MagcDEV
