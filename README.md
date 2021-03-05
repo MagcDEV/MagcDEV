@@ -1,6 +1,6 @@
 ### Hi there, I'm Manuel - aka [MagDEV][website] 👋
 
-[![Website](https://img.shields.io/website?label=MagcDEV.com&style=for-the-badge&url=https%3A%2F%2FMagcDEV.com)](https://magcdev.github.io/MagcDEV_Portfolio/index.html)
+[![Website](https://img.shields.io/website?label=MagcDEV.com&style=for-the-badge&url=https://magcdev.github.io/MagcDEV_Portfolio/index.html)](https://magcdev.github.io/MagcDEV_Portfolio/index.html)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MagcDEV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Husband, Father and Developer!!
