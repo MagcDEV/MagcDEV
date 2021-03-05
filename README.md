@@ -50,10 +50,8 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magcdev)](https://github.com/magcdev/github-readme-stats)
-</details>
+<summary>:zap: GitHub Stats</summary>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magcdev)](https://github.com/magcdev/github-readme-stats)
 
 [website]: https://magcdev.github.io/MagcDEV_Portfolio/index.html
 [twitter]: https://twitter.com/MagcDEV
