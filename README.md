@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Find my first developer job
-- ⚡ Fun fact: I love trainig, video games and Anime
+- ⚡ Fun fact: I love training, video games and Anime
 
 
 ### Connect with me:
