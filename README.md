@@ -1,6 +1,6 @@
 ### Hi there, I'm Manuel - aka [MagcDEV][website] 👋
 
-[![Website](https://img.shields.io/website?label=MagcDEV.com&style=for-the-badge&url=https://magcdev.github.io)](https://magcdev.github.io)
+[![Website](https://img.shields.io/website?label=MagcDEV.com&style=for-the-badge&url=https://magcdev-portfolio.vercel.app)](https://magcdev-portfolio.vercel.app/)
 
 ## I'm a Husband, Father and Developer!!
 
