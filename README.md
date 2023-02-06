@@ -53,7 +53,7 @@
 <br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magcdev)](https://github.com/magcdev/github-readme-stats)
 
-[website]: https://magcdev.github.io/MagcDEV_Portfolio/index.html
+[website]: https://magcdev-portfolio.vercel.app
 [twitter]: https://twitter.com/MagcDEV
 [instagram]: https://instagram.com/magcdev
 [linkedin]: https://www.linkedin.com/in/manuelaguevarac/
