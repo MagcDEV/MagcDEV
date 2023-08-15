@@ -5,7 +5,6 @@
 ## I'm a Husband, Father and Developer!!
 
 - 🌱 I’m currently Upskilling
-- 🥅 2023 Goals: Find a ReacjJs Developer role.
 - ⚡ Fun fact: I love training, video games and Anime
 
 
