@@ -34,20 +34,6 @@
 <br />
 <br />
 
----
-
-### 📕 Latest Blog Posts
-
-<!-- HASHNODE:START -->
-- [The Tutorial Hell and How to Escape!](https://magc.hashnode.dev/the-tutorial-hell-and-how-to-escape)
-- [How is covid-19 going in your country in less than 30 lines of code using Python, NumPy, Pandas and Matplotlib](https://magc.hashnode.dev/how-is-covid-19-going-in-your-country-in-less-than-30-lines-of-code-using-python-numpy-pandas-and-matplotlib)
-- [El camino NO tan sencillo a la programación](https://magc.hashnode.dev/el-camino-no-tan-sencillo-a-la-programacion)
-- [The NOT so Straightforward path to Programming](https://magc.hashnode.dev/the-not-so-straightforward-path-to-programming)
-<!-- HASHNODE:END -->
-
-➡️ [more blog posts...](https://magc.hashnode.dev)
-
----
 ⚡ GitHub Stats
 <br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magcdev)](https://github.com/magcdev/github-readme-stats)
