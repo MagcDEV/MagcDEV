@@ -2,11 +2,12 @@
 
 [![Website](https://img.shields.io/website?label=MagcDEV.com&style=for-the-badge&url=https://magcdev-portfolio.vercel.app)](https://magcdev-portfolio.vercel.app/)
 
-## I'm a Husband, Father and Developer!!
+## Software Engineer | .NET/C# Specialist | Backend Developer
 
-- 🌱 I’m currently Upskilling
-- ⚡ Fun fact: I love training, video games and Anime
-
+- 🔭 I’m currently working on scalable backend systems with .NET Core
+- 🌱 Deep diving into cloud-native architectures and distributed systems
+- 💡 Passionate about clean code and domain-driven design
+- ⚡ Fun fact: I love weightlifting, retro gaming, and anime marathons
 
 ### Connect with me:
 
@@ -17,26 +18,33 @@
 
 <br />
 
-### Languages and Tools:
+### Core Stack & Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
+[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][website]
+[<img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />][website]
+[<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />][website]
+[<img align="left" alt="SQL Server" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+[<img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+[<img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />][website]
 
 <br />
 <br />
 
-⚡ GitHub Stats
-<br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magcdev)](https://github.com/magcdev/github-readme-stats)
+### Recent Projects & Contributions
+
+⚡ [Enterprise API Template](https://github.com/magcdev/dotnet-core-api-template)  
+A production-ready .NET 7 API template with clean architecture and CQRS implementation
+
+⚡ [Cloud Deployment Automation](https://github.com/magcdev/azure-pipelines)  
+Azure DevOps pipelines for CI/CD of containerized .NET applications
+
+⚡ [Performance Benchmark Suite](https://github.com/magcdev/dotnet-benchmarks)  
+Comparative analysis of different .NET serialization and database access approaches
+
+📈 GitHub Stats  
+[![MagcDEV's GitHub Stats](https://github-readme-stats.vercel.app/api?username=magcdev&show_icons=true&theme=radical)](https://github.com/magcdev)
 
 [website]: https://magcdev-portfolio.vercel.app
 [twitter]: https://twitter.com/MagcDEV
