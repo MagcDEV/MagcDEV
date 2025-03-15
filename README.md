@@ -46,7 +46,7 @@ Comparative analysis of different .NET serialization and database access approac
 📈 GitHub Stats  
 [![MagcDEV's GitHub Stats](https://github-readme-stats.vercel.app/api?username=magcdev&show_icons=true&theme=radical)](https://github.com/magcdev)
 
-[website]: https://magcdev-portfolio.vercel.app
+[website]: https://magcdev.github.io/Magcdev.DigitalGarden/
 [twitter]: https://twitter.com/MagcDEV
 [instagram]: https://instagram.com/magcdev
 [linkedin]: https://www.linkedin.com/in/manuelaguevarac/
