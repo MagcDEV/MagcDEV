@@ -1,6 +1,6 @@
 ### Hi there, I'm Manuel - aka [MagcDEV][website] 👋
 
-[![Website](https://img.shields.io/website?label=MagcDEV.com&style=for-the-badge&url=https://magcdev-portfolio.vercel.app)](https://magcdev-portfolio.vercel.app/)
+[![Website](https://img.shields.io/website?label=MagcDEV.com&style=for-the-badge&url=https://magcdev.github.io/Magcdev.DigitalGarden/)](https://magcdev.github.io/Magcdev.DigitalGarden/)
 
 ## Software Engineer | .NET/C# Specialist | Backend Developer
 
