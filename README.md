@@ -13,10 +13,10 @@ Experienced Software Engineer specializing in high-performance solutions with Mi
 
 ### Connect with me:
 
-[<img align="left" alt="MagcDEV" width="22px" style="filter: invert(1) brightness(1.5);" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MagcDEV | Twitter" width="22px" style="filter: invert(0.5) sepia(1) saturate(5) hue-rotate(175deg);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Manuel Guevara | LinkedIn" width="22px" style="filter: invert(0.3) sepia(1) saturate(5) hue-rotate(190deg);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MagcDEV | Instagram" width="22px" style="filter: invert(0.4) sepia(1) saturate(5) hue-rotate(300deg);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MagcDEV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg?color=1DA1F2" />][website]
+[<img align="left" alt="MagcDEV | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg?color=1DA1F2" />][twitter]
+[<img align="left" alt="Manuel Guevara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?color=0A66C2" />][linkedin]
+[<img align="left" alt="MagcDEV | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg?color=E4405F" />][instagram]
 <br />
 
 ### Core Stack & Tools:
