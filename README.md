@@ -4,6 +4,8 @@
 
 ## Software Engineer | .NET/C# Specialist | Backend Developer
 
+Experienced Software Engineer specializing in high-performance solutions with Microsoft technologies (.NET/C#, Azure). Full-stack capabilities with frontend experience in Angular/React. Technology-agnostic with a strong foundation to rapidly adapt and deliver across diverse tech stacks.
+
 - 🔭 I’m currently working on scalable backend systems with .NET Core
 - 🌱 Deep diving into cloud-native architectures and distributed systems
 - 💡 Passionate about clean code and domain-driven design
@@ -15,6 +17,7 @@
 [<img align="left" alt="MagcDEV | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Manuel Guevara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MagcDEV | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Download CV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pdf.svg" />][cv]
 
 <br />
 
@@ -50,3 +53,4 @@ Comparative analysis of different .NET serialization and database access approac
 [twitter]: https://twitter.com/MagcDEV
 [instagram]: https://instagram.com/magcdev
 [linkedin]: https://www.linkedin.com/in/manuelaguevarac/
+[cv]: https://your-cv-link-here.com # Replace with your actual CV URL
