@@ -11,6 +11,21 @@ Experienced Software Engineer specializing in high-performance solutions with Mi
 - 💡 Passionate about clean code and domain-driven design
 - ⚡ Fun fact: I love weightlifting, retro gaming, and anime marathons
 
+<br />
+### 📫 Contact Me
+
+[![Twitter][twitter-shield]][twitter]
+[![LinkedIn][linkedin-shield]][linkedin]
+[![Instagram][instagram-shield]][instagram]
+
+[twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[instagram-shield]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
+[twitter]: https://twitter.com/MagcDEV
+[instagram]: https://instagram.com/magcdev
+[linkedin]: https://www.linkedin.com/in/manuelaguevarac/
+
+<br />
 
 ### Core Stack & Tools:
 
