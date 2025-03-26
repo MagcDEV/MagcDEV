@@ -11,13 +11,6 @@ Experienced Software Engineer specializing in high-performance solutions with Mi
 - 💡 Passionate about clean code and domain-driven design
 - ⚡ Fun fact: I love weightlifting, retro gaming, and anime marathons
 
-### Connect with me:
-
-[<img align="left" alt="MagcDEV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg?color=1DA1F2" />][website]
-[<img align="left" alt="MagcDEV | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg?color=1DA1F2" />][twitter]
-[<img align="left" alt="Manuel Guevara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?color=0A66C2" />][linkedin]
-[<img align="left" alt="MagcDEV | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg?color=E4405F" />][instagram]
-<br />
 
 ### Core Stack & Tools:
 
