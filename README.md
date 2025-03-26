@@ -12,6 +12,7 @@ Experienced Software Engineer specializing in high-performance solutions with Mi
 - ⚡ Fun fact: I love weightlifting, retro gaming, and anime marathons
 
 <br />
+
 ### 📫 Contact Me
 
 [![Twitter][twitter-shield]][twitter]
