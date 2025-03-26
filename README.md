@@ -31,6 +31,17 @@ Experienced Software Engineer specializing in high-performance solutions with Mi
 [<img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />][website]
 
+### Core Stack & Tools:
+
+[<img align="left" alt="C#" width="26px" style="filter: invert(1) grayscale(1) brightness(2);" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][website]
+[<img align="left" alt=".NET" width="26px" style="filter: invert(1);" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />][website]
+[<img align="left" alt="Azure" width="26px" style="filter: invert(1) hue-rotate(180deg);" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />][website]
+[<img align="left" alt="SQL Server" width="26px" style="filter: invert(1) saturate(0);" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
+[<img align="left" alt="Docker" width="26px" style="filter: invert(1);" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][website]
+[<img align="left" alt="Git" width="26px" style="filter: invert(1);" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
+[<img align="left" alt="Visual Studio" width="26px" style="filter: invert(1);" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+[<img align="left" alt="Postman" width="26px" style="filter: invert(1);" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />][website]
+
 <br />
 <br />
 
