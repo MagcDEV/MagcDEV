@@ -20,6 +20,7 @@ Experienced Software Engineer specializing in high-performance solutions with Mi
 [<img align="left" alt="Download CV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pdf.svg" />][cv]
 
 <br />
+<br />
 
 ### Core Stack & Tools:
 
