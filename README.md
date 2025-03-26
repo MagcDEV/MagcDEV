@@ -17,15 +17,18 @@ Experienced Software Engineer specializing in high-performance solutions with Mi
 
 [![Twitter][twitter-shield]][twitter]
 [![LinkedIn][linkedin-shield]][linkedin]
+[![Email][email-shield]][email]
 [![Instagram][instagram-shield]][instagram]
 
 [twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[email-shield]: https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 [instagram-shield]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
-[twitter]: https://twitter.com/MagcDEV
-[instagram]: https://instagram.com/magcdev
-[linkedin]: https://www.linkedin.com/in/manuelaguevarac/
 
+[twitter]: https://twitter.com/MagcDEV
+[linkedin]: https://www.linkedin.com/in/manuelaguevarac/
+[email]: mailto:manuel_guevarac@outlook.com
+[instagram]: https://instagram.com/magcdev
 <br />
 
 ### Core Stack & Tools:
