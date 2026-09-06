@@ -1,65 +1,97 @@
-### Hi there, I'm Manuel - aka [MagcDEV][website] 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-dark.svg" alt="Manuel Guevara — Senior Software Engineer, backend and data platforms" width="100%">
+  </picture>
+</p>
 
-[![Website](https://img.shields.io/website?label=MagcDEV.com&style=for-the-badge&url=https://magcdev.github.io/Magcdev.DigitalGarden/)](https://magcdev.github.io/Magcdev.DigitalGarden/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/manuelaguevarac"><img src="https://img.shields.io/badge/LinkedIn-070B14?style=for-the-badge&logo=linkedin&logoColor=C9A36A" alt="LinkedIn"></a>
+  <a href="mailto:manuel_guevarac@outlook.com"><img src="https://img.shields.io/badge/Email-070B14?style=for-the-badge&logo=microsoftoutlook&logoColor=C9A36A" alt="Email"></a>
+  <a href="https://magcdev.github.io/Magcdev.DigitalGarden/"><img src="https://img.shields.io/badge/Garden-070B14?style=for-the-badge&logo=obsidian&logoColor=C9A36A" alt="Digital garden"></a>
+  <a href="https://x.com/MagcDEV"><img src="https://img.shields.io/badge/X-070B14?style=for-the-badge&logo=x&logoColor=C9A36A" alt="X"></a>
+</p>
 
-## Software Engineer | .NET/C# Specialist | Backend Developer
+Software engineer with **8+ years** shipping production systems across banking, consulting, and energy. I own features end to end: requirements and trade-off analysis through deployment and operations.
 
-Experienced Software Engineer specializing in high-performance solutions with Microsoft technologies (.NET/C#, Azure). Full-stack capabilities with frontend experience in Angular/React. Technology-agnostic with a strong foundation to rapidly adapt and deliver across diverse tech stacks.
+Currently building **Chevron’s internal data marketplace** — the platform that connects data producers and consumers and makes data products discoverable. Before that: home-banking microservices for **Banco Galicia**, an event-driven decoupling layer at **Globant**, and credit-decisioning systems at **Banco de Venezuela**.
 
-- 🔭 I’m currently working on scalable backend systems with .NET Core
-- 🌱 Deep diving into cloud-native architectures and distributed systems
-- 💡 Passionate about clean code and domain-driven design
-- ⚡ Fun fact: I love weightlifting, retro gaming, and anime marathons
+Open to **Senior, Lead, or Staff** roles where architectural judgment and delivery ownership matter.
 
-<br />
+---
 
-### 📫 Contact Me
+## Now
 
-[![Twitter][twitter-shield]][twitter]
-[![LinkedIn][linkedin-shield]][linkedin]
-[![Email][email-shield]][email]
-[![Instagram][instagram-shield]][instagram]
+- **Chevron** — backend services in .NET / C#, Go, and Python on Azure for data-product cataloging, discovery, and a feedback loop that helps producers improve quality and consumers find the right datasets.
+- **Independent / Break** — POS ↔ PedidosYa integration (webhooks, token flow, order-event sequencing) and a modernization plan for a monolithic inventory/order system.
 
-[twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[email-shield]: https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white
-[instagram-shield]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
+## Selected work
 
-[twitter]: https://twitter.com/MagcDEV
-[linkedin]: https://www.linkedin.com/in/manuelaguevarac/
-[email]: mailto:manuel_guevarac@outlook.com
-[instagram]: https://instagram.com/magcdev
-<br />
+| Work | What shipped | Stack |
+| --- | --- | --- |
+| **Chevron data marketplace** | Catalog, rich product descriptions, discovery, and producer/consumer feedback across business units | .NET, Go, Python, Azure |
+| **[Entity description generator](https://github.com/MagcDEV/entity-description-generator)** | Scans SQL Server entity schemas and writes AI-backed business descriptions for the catalog | .NET, SQL Server |
+| **Globant — event-driven decoupling** | Isolated a legacy database behind a producer–consumer layer so third parties integrate without direct DB access | .NET / C#, messaging |
+| **Accenture × Banco Galicia** | Microservices for one of Argentina’s largest home-banking platforms, in a regulated release path | .NET, APIs |
+| **Banco de Venezuela — credit** | Credit simulators, customer-behavior databases, and pipelines from transactions into scoring workflows | C#, SQL Server |
+| **Break — PedidosYa + architecture** | Partner-portal setup, webhook/order sequencing, and a roadmap off browser-local persistence onto Next.js / Postgres | Integrations, Next.js, Supabase |
 
-### Core Stack & Tools:
+Most of the production work lives in private enterprise repos. Public artifacts that match this line of work: [entity-description-generator](https://github.com/MagcDEV/entity-description-generator), [BreakRetailManager](https://github.com/MagcDEV/BreakRetailManager), [meli-challenge](https://github.com/MagcDEV/meli-challenge).
 
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][website]
-[<img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />][website]
-[<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />][website]
-[<img align="left" alt="SQL Server" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />][website]
+## Experience
 
-<br />
+| | | |
+| --- | --- | --- |
+| **2025 – now** | Software Engineer | **Chevron** · Buenos Aires · internal data marketplace |
+| **2024 – 2025** | Software Engineer | **Globant** · event-driven isolation; Deloitte engagement platform |
+| **2023 – 2024** | Senior .NET Developer | **Accenture** (client: **Banco Galicia**) · home-banking microservices |
+| **2023** | Full Stack Developer | **Infosoft CA** · database, API, and frontend, end to end |
+| **2022 – 2023** | Software Engineer | **WebCreek** · deployments, runbooks, distributed remote team |
+| **2017 – 2021** | Software Developer | **Banco de Venezuela** · credit tooling and SQL Server data layer |
 
-### Recent Projects & Contributions
+## How I build
 
-⚡ [Enterprise API Template](https://github.com/magcdev/dotnet-core-api-template)  
-A production-ready .NET 7 API template with clean architecture and CQRS implementation
+```mermaid
+flowchart LR
+  P[Domain systems] --> E[Event layer]
+  E --> C[Data product catalog]
+  C --> D[Discovery]
+  C --> A[Downstream apps]
+  D --> F[Producer feedback]
+  F --> C
+```
 
-⚡ [Cloud Deployment Automation](https://github.com/magcdev/azure-pipelines)  
-Azure DevOps pipelines for CI/CD of containerized .NET applications
+I care about the unglamorous parts of financial and enterprise systems: **idempotency**, **consistency**, **legacy decoupling**, and documentation that another engineer can operate at 2 a.m.
 
-⚡ [Performance Benchmark Suite](https://github.com/magcdev/dotnet-benchmarks)  
-Comparative analysis of different .NET serialization and database access approaches
+## Stack
 
-📈 GitHub Stats  
-[![MagcDEV's GitHub Stats](https://github-readme-stats.vercel.app/api?username=magcdev&show_icons=true&theme=radical)](https://github.com/magcdev)
+**Languages** — C#, Go, SQL (T-SQL), Python, TypeScript / JavaScript
 
-[website]: https://magcdev.github.io/Magcdev.DigitalGarden/
-[twitter]: https://twitter.com/MagcDEV
-[instagram]: https://instagram.com/magcdev
-[linkedin]: https://www.linkedin.com/in/manuelaguevarac/
-[cv]: https://your-cv-link-here.com # Replace with your actual CV URL
+**Backend** — .NET / ASP.NET Core, microservices, event-driven architecture, REST APIs, domain modeling
+
+**Cloud & data** — Microsoft Azure, SQL Server, PostgreSQL / Supabase, CI/CD, deployment automation
+
+**Frontend when needed** — React, Next.js, Angular, Node.js
+
+**Domains** — banking and fintech (credit, home banking, payments), enterprise data platforms, energy
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-070B14?style=flat-square&logo=csharp&logoColor=C9A36A" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-070B14?style=flat-square&logo=dotnet&logoColor=C9A36A" alt=".NET">
+  <img src="https://img.shields.io/badge/Go-070B14?style=flat-square&logo=go&logoColor=C9A36A" alt="Go">
+  <img src="https://img.shields.io/badge/Azure-070B14?style=flat-square&logo=microsoftazure&logoColor=C9A36A" alt="Azure">
+  <img src="https://img.shields.io/badge/SQL_Server-070B14?style=flat-square&logo=microsoftsqlserver&logoColor=C9A36A" alt="SQL Server">
+  <img src="https://img.shields.io/badge/PostgreSQL-070B14?style=flat-square&logo=postgresql&logoColor=C9A36A" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Python-070B14?style=flat-square&logo=python&logoColor=C9A36A" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-070B14?style=flat-square&logo=typescript&logoColor=C9A36A" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-070B14?style=flat-square&logo=react&logoColor=C9A36A" alt="React">
+  <img src="https://img.shields.io/badge/Docker-070B14?style=flat-square&logo=docker&logoColor=C9A36A" alt="Docker">
+</p>
+
+## Notes
+
+Economics coursework completed at **Universidad Central de Venezuela** — econometrics and quantitative methods still show up in how I model data and systems.
+
+Spanish native. English at professional working proficiency (EF SET certified).
+
+Writing and working notes: [digital garden](https://magcdev.github.io/Magcdev.DigitalGarden/).
