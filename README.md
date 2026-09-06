@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/manuelaguevarac"><img src="https://img.shields.io/badge/LinkedIn-070B14?style=for-the-badge&logo=linkedin&logoColor=C9A36A" alt="LinkedIn"></a>
   <a href="mailto:manuel_guevarac@outlook.com"><img src="https://img.shields.io/badge/Email-070B14?style=for-the-badge&logo=microsoftoutlook&logoColor=C9A36A" alt="Email"></a>
-  <a href="https://magcdev.github.io/Magcdev.DigitalGarden/"><img src="https://img.shields.io/badge/Garden-070B14?style=for-the-badge&logo=obsidian&logoColor=C9A36A" alt="Digital garden"></a>
+  <a href="https://magcdev.github.io/Magcdev.DigitalGarden/"><img src="https://img.shields.io/badge/Garden-070B14?style=for-the-badge&logo=markdown&logoColor=C9A36A" alt="Digital garden"></a>
   <a href="https://x.com/MagcDEV"><img src="https://img.shields.io/badge/X-070B14?style=for-the-badge&logo=x&logoColor=C9A36A" alt="X"></a>
 </p>
 
@@ -51,15 +51,12 @@ Most of the production work lives in private enterprise repos. Public artifacts 
 
 ## How I build
 
-```mermaid
-flowchart LR
-  P[Domain systems] --> E[Event layer]
-  E --> C[Data product catalog]
-  C --> D[Discovery]
-  C --> A[Downstream apps]
-  D --> F[Producer feedback]
-  F --> C
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/flow-light.svg">
+    <img src="assets/flow-dark.svg" alt="Domain systems flow into an event layer and catalog, then out to discovery and downstream apps, with feedback back into the catalog" width="100%">
+  </picture>
+</p>
 
 I care about the unglamorous parts of financial and enterprise systems: **idempotency**, **consistency**, **legacy decoupling**, and documentation that another engineer can operate at 2 a.m.
 
