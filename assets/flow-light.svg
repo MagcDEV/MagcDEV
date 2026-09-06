@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 160" width="980" height="160" role="img" aria-labelledby="t">
   <title id="t">Producers to event layer to catalog to consumers, with a feedback loop</title>
-  <rect width="980" height="160" fill="#F2F5F8"/>
+  <rect width="980" height="160" fill="none"/>
   <g font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#070B14">
     <rect x="16" y="54" width="150" height="52" rx="2" fill="none" stroke="#8A6A38" stroke-opacity="0.8"/>
     <text x="42" y="85">Domain systems</text>
