@@ -14,7 +14,7 @@
 
 Software engineer with **8+ years** shipping production systems across banking, consulting, and energy. I own features end to end: requirements and trade-off analysis through deployment and operations.
 
-Currently building **Chevron’s internal data marketplace** — the platform that connects data producers and consumers and makes data products discoverable. Before that: home-banking microservices for **Banco Galicia**, an event-driven decoupling layer at **Globant**, and credit-decisioning systems at **Banco de Venezuela**.
+Currently building **Chevron’s internal data marketplace** — the platform where business units publish, catalogue, and govern data products. Before that: home-banking microservices for **Banco Galicia**, an event-driven decoupling layer at **Globant**, and credit-decisioning systems at **Banco de Venezuela**.
 
 Open to **Senior, Lead, or Staff** roles where architectural judgment and delivery ownership matter.
 
@@ -22,19 +22,19 @@ Open to **Senior, Lead, or Staff** roles where architectural judgment and delive
 
 ## Now
 
-- **Chevron** — backend services in .NET / C#, Go, and Python on Azure for data-product cataloging, discovery, and a feedback loop that helps producers improve quality and consumers find the right datasets.
+- **Chevron** — full stack in C# / .NET 10, ASP.NET Core, Angular, and Azure Functions. Self-service access management for data-science and AI resources (replacing manual grants in Azure), a Durable Functions orchestration that runs the catalog, data-quality, and AI-readiness syncs in order with retries, and the platform’s .NET 10 / Angular 21 upgrades.
 - **Independent / Break** — POS ↔ PedidosYa integration (webhooks, token flow, order-event sequencing) and a modernization plan for a monolithic inventory/order system.
 
 ## Selected work
 
 | Work | What shipped | Stack |
 | --- | --- | --- |
-| **Chevron data marketplace** | Catalog, rich product descriptions, discovery, and producer/consumer feedback across business units | .NET, Go, Python, Azure |
-| **[Entity description generator](https://github.com/MagcDEV/entity-description-generator)** | Scans SQL Server entity schemas and writes AI-backed business descriptions for the catalog | .NET, SQL Server |
-| **Globant — event-driven decoupling** | Isolated a legacy database behind a producer–consumer layer so third parties integrate without direct DB access | .NET / C#, messaging |
+| **Chevron data marketplace** | Self-service access management for AI resources; ordered sync orchestration documented in an ADR; AI-readiness checks for data products; .NET 8→10 and Angular 17→21 upgrades with security fixes | .NET, Angular, Azure Functions, Service Bus, AI Search |
+| **Globant — event-driven decoupling** | Isolated a legacy database behind a producer–consumer layer so third parties integrate without direct DB access | .NET / C#, Azure Service Bus |
 | **Accenture × Banco Galicia** | Microservices for one of Argentina’s largest home-banking platforms, in a regulated release path | .NET, APIs |
 | **Banco de Venezuela — credit** | Credit simulators, customer-behavior databases, and pipelines from transactions into scoring workflows | C#, SQL Server |
 | **Break — PedidosYa + architecture** | Partner-portal setup, webhook/order sequencing, and a roadmap off browser-local persistence onto Next.js / Postgres | Integrations, Next.js, Supabase |
+| **[Entity description generator](https://github.com/MagcDEV/entity-description-generator)** (side project) | Scans SQL Server entity schemas and drafts business descriptions with an LLM, output as JSON for a data catalog | .NET 10, SQL Server, Copilot SDK |
 
 Most of the production work lives in private enterprise repos. Public artifacts that match this line of work: [entity-description-generator](https://github.com/MagcDEV/entity-description-generator), [BreakRetailManager](https://github.com/MagcDEV/BreakRetailManager), [meli-challenge](https://github.com/MagcDEV/meli-challenge).
 
@@ -62,13 +62,15 @@ I care about the unglamorous parts of financial and enterprise systems: **idempo
 
 ## Stack
 
-**Languages** — C#, Go, SQL (T-SQL), Python, TypeScript / JavaScript
+**Languages** — C#, TypeScript, SQL (T-SQL), Go (side projects)
 
-**Backend** — .NET / ASP.NET Core, microservices, event-driven architecture, REST APIs, domain modeling
+**Backend** — .NET / ASP.NET Core, Entity Framework Core, Azure Functions / Durable Functions, microservices, event-driven architecture, REST APIs, domain modeling
 
-**Cloud & data** — Microsoft Azure, SQL Server, PostgreSQL / Supabase, CI/CD, deployment automation
+**Cloud & data** — Microsoft Azure (Service Bus, AI Search, API Management, Key Vault), SQL Server / Azure SQL, Microsoft Purview, PostgreSQL / Supabase
 
-**Frontend when needed** — React, Next.js, Angular, Node.js
+**Delivery & ops** — Azure DevOps, GitHub Actions, SonarQube, Docker, Kubernetes, Terraform, Application Insights, Datadog
+
+**Frontend** — Angular (production), React, Next.js
 
 **Domains** — banking and fintech (credit, home banking, payments), enterprise data platforms, energy
 
@@ -79,8 +81,8 @@ I care about the unglamorous parts of financial and enterprise systems: **idempo
   <img src="https://img.shields.io/badge/Azure-070B14?style=flat-square&logo=microsoftazure&logoColor=C9A36A" alt="Azure">
   <img src="https://img.shields.io/badge/SQL_Server-070B14?style=flat-square&logo=microsoftsqlserver&logoColor=C9A36A" alt="SQL Server">
   <img src="https://img.shields.io/badge/PostgreSQL-070B14?style=flat-square&logo=postgresql&logoColor=C9A36A" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Python-070B14?style=flat-square&logo=python&logoColor=C9A36A" alt="Python">
   <img src="https://img.shields.io/badge/TypeScript-070B14?style=flat-square&logo=typescript&logoColor=C9A36A" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Angular-070B14?style=flat-square&logo=angular&logoColor=C9A36A" alt="Angular">
   <img src="https://img.shields.io/badge/React-070B14?style=flat-square&logo=react&logoColor=C9A36A" alt="React">
   <img src="https://img.shields.io/badge/Docker-070B14?style=flat-square&logo=docker&logoColor=C9A36A" alt="Docker">
 </p>
@@ -89,6 +91,6 @@ I care about the unglamorous parts of financial and enterprise systems: **idempo
 
 Economics coursework completed at **Universidad Central de Venezuela** — econometrics and quantitative methods still show up in how I model data and systems.
 
-Spanish native. English at professional working proficiency (EF SET certified).
+Spanish native. Fluent English (C2, EF SET certified).
 
 Writing and working notes: [digital garden](https://magcdev.github.io/Magcdev.DigitalGarden/).
