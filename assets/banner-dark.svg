@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 440" width="1600" height="440" role="img" aria-labelledby="title desc">
   <title id="title">Manuel Guevara — Senior Software Engineer</title>
-  <desc id="desc">Backend and data platforms. .NET, Go, Azure, Fintech. Buenos Aires.</desc>
+  <desc id="desc">Backend and AI engineering. .NET, AI, Azure, Fintech. Buenos Aires.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#070B14"/>
@@ -25,7 +25,7 @@
   <text x="64" y="82" fill="#C9A36A" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" letter-spacing="8" font-weight="600">MAGCDEV</text>
   <text x="64" y="160" fill="#E7E1D4" font-family="Georgia, Times New Roman, Times, serif" font-size="72">Manuel Guevara</text>
   <text x="64" y="210" fill="#C9A36A" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="28" letter-spacing="1.2" font-weight="600">Senior Software Engineer</text>
-  <text x="64" y="250" fill="#9AA7B5" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20">Backend &amp; data platforms · banking · energy · consulting</text>
+  <text x="64" y="250" fill="#9AA7B5" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20">Backend &amp; AI engineering · fintech · data platforms</text>
 
   <path d="M64 278 H720" stroke="#C9A36A" stroke-width="1.5" fill="none" stroke-opacity="0.85"/>
   <circle cx="720" cy="278" r="2.5" fill="#C9A36A"/>
@@ -34,13 +34,13 @@
     <rect x="64" y="304" width="96" height="38" rx="3" fill="none" stroke="#C9A36A" stroke-opacity="0.55"/>
     <text x="112" y="329" text-anchor="middle">.NET</text>
     <rect x="172" y="304" width="76" height="38" rx="3" fill="none" stroke="#C9A36A" stroke-opacity="0.55"/>
-    <text x="210" y="329" text-anchor="middle">Go</text>
+    <text x="210" y="329" text-anchor="middle">AI</text>
     <rect x="260" y="304" width="104" height="38" rx="3" fill="none" stroke="#C9A36A" stroke-opacity="0.55"/>
     <text x="312" y="329" text-anchor="middle">Azure</text>
     <rect x="376" y="304" width="118" height="38" rx="3" fill="none" stroke="#C9A36A" stroke-opacity="0.55"/>
     <text x="435" y="329" text-anchor="middle">Fintech</text>
   </g>
-  <text x="64" y="384" fill="#6B7C8D" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17">Buenos Aires  ·  8+ years in production  ·  open to Senior / Lead / Staff</text>
+  <text x="64" y="384" fill="#6B7C8D" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17">Buenos Aires  ·  8+ years in production  ·  open to Senior backend &amp; applied AI roles</text>
 
   <g id="constellation" fill="none" stroke="#C9A36A" stroke-opacity="0.45" stroke-width="1.15">
     <path id="e1" d="M720 278 C860 278, 940 180, 1048 152"/>
